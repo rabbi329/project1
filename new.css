@@ -27,3 +27,14 @@
 .item:hover{
     color: mediumblue;
 }
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+}
+.banner-img{
+    height: 200px;
+    width: 200px;
+}
+banner{
+    display: flex;
+}
