@@ -8,12 +8,22 @@
     padding:20px;
     color: beige;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-around; list-style: none;
+
 }
 .logo-photo{
     width: 120px;
-    list-style: none;
+   
 }
 .manu{
-    display: inline;
+    display: flex;
+}
+.item{f
+    margin: 20;
+    padding: 7px;
+    font-size:18px ;
+    cursor: pointer;
+}
+.item:hover{
+    color: mediumblue;
 }
